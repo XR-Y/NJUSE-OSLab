@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "console.h": "c",
+        "proc.h": "c"
+    }
+}
